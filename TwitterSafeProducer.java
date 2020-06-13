@@ -32,7 +32,7 @@ public class TwitterSafeProducer {
 
     List<String> terms = Lists.newArrayList("kafka");
 
-    public TwitterProducer() {
+    public TwitterSafeProducer() {
     }
 
     public static void main(String[] args) {
